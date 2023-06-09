@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import PersonCard from './components/PersonCard';
 
@@ -21,12 +20,6 @@ function App() {
       firstName={"Mallard"}
       lastName={"Fillmore"}
       age={50}
-      hairColor={"Brown"}
-      />
-      <PersonCard 
-      firstName={"Maria"}
-      lastName={"Smith"}
-      age={62}
       hairColor={"Brown"}
       />
       <PersonCard 
