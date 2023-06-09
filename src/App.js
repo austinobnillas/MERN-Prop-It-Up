@@ -29,6 +29,12 @@ function App() {
       age={62}
       hairColor={"Brown"}
       />
+      <PersonCard 
+      firstName={"Maria"}
+      lastName={"Smith"}
+      age={62}
+      hairColor={"Brown"}
+      />
     </div>
   );
 }
